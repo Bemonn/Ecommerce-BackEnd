@@ -5,7 +5,7 @@
   ## Description
  An application utilising functional express.js API and sequelize to interact with mySQL database that allows the user to easily navigate tables and alter them in the backend of an Ecommerce.
 
-The user is able to
+Allows the user to edit the database with ease and navigate GET, POST, PUT AND DEL requests with ease.
 
   ## Table of Contents
 - [Installation](#installation)
@@ -30,7 +30,7 @@ The user is able to
 
   ## Video
   
-
+https://drive.google.com/file/d/1dNI96e55ZEp3RZf6dKxSPW-VcrCeVEoI/view 
   
   ## Usage
  Run the application using the intergrated terminal and inputing node server.js.
