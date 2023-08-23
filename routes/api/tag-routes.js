@@ -13,8 +13,6 @@ router.get('/', async (req, res) => {
   }
 });
 
-console.log("GET request received for all tags");
-
 //GET a single tag by its `id` with associated Product data
 router.get('/:id', async (req, res) => {
   try {
